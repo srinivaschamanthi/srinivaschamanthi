@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 
 🛠 Tech Stack
 💻   React | JavaScript | HTML | CSS
+💻   Express | Node | Sql 
 🔧   Visual Studio code | Git
