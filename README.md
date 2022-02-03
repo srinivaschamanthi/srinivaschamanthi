@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on FrontEnd Projects
+- 🔭 I’m currently working on MERN Projects
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: +91-9133669797
