@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Projects
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: +91-9133669797
-- ⚡ Fun fact: If I won the lottery, the first thing I’d buy is Biriyani
+- ⚡ Fun fact: Never Bored with JS
 
 🛠 Tech Stack
-💻   React | JavaScript | HTML | CSS
-💻   Express | Node | Sql 
+💻   React | Angular | JavaScript | HTML | CSS
+💻   Express | Node | SQL | MONGO 
 🔧   Visual Studio code | Git
