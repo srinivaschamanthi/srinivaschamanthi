@@ -15,7 +15,7 @@
 
 <p align="center">
     <br />
-    <a href="https://www.linkedin.com/in/srinivaschamanthi/" target="_blank" rel="noreferrer"><img align="center"
+    <a href="https://www.linkedin.com/in/srinivas-chamanthi-043314204/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="srinivaschamanthi" height="30" /></a>
     <a href="https://wa.me/+919133669797" target="_blank" rel="noreferrer"><img align="center"
