@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinivas Chamanthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=srinivaschamanthi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning DevOps<br>👯 I’m looking to collaborate on open-source projects<br>📫 How to reach me: +91-9133669797<br>⚡ Fun fact: Never Bored with JS
