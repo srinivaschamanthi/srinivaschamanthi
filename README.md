@@ -12,6 +12,18 @@
  
  
 ## 🌐 Socials:
+
+<p align="center">
+    <br />
+    <a href="https://www.linkedin.com/in/satyasandeep/" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="srinivaschamanthi" height="30" /></a>
+    <a href="https://wa.me/+919133669797" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+            alt="srinivaschamanthi" height="30" /></a>
+   
+    <br>
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-chamanthi-043314204/)
  
 # 💻 Tech Stack:
