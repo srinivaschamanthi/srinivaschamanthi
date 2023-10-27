@@ -5,11 +5,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=srinivaschamanthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning DevOps<br>👯 I’m looking to collaborate on open-source projects<br>📫 How to reach me: +91-9133669797<br>⚡ Fun fact: Never Bored with JS
- 
+
  
 ## 🌐 Socials:
 
