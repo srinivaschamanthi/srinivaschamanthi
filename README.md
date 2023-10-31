@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Srinivas Chamanthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&vCenter=true&width=510&height=45&lines=Hi+...+%F0%9F%99%82;I'm+srinivas+chamanthi;A+passionate+frontend+developer+from++India)](https://git.io/typing-svg)
+
+
 
 
 ---
